@@ -1,0 +1,7 @@
+Z:\Proggen\C#\Lunar-lander_\Lunar-lander_\bin\Debug\Lunar-lander_.exe
+Z:\Proggen\C#\Lunar-lander_\Lunar-lander_\bin\Debug\Lunar-lander_.pdb
+Z:\Proggen\C#\Lunar-lander_\Lunar-lander_\bin\Debug\OpenTK.dll
+Z:\Proggen\C#\Lunar-lander_\Lunar-lander_\bin\Debug\OpenTK.pdb
+Z:\Proggen\C#\Lunar-lander_\Lunar-lander_\bin\Debug\OpenTK.xml
+Z:\Proggen\C#\Lunar-lander_\Lunar-lander_\obj\x86\Debug\Lunar-lander_.exe
+Z:\Proggen\C#\Lunar-lander_\Lunar-lander_\obj\x86\Debug\Lunar-lander_.pdb
